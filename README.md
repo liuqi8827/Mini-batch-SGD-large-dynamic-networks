@@ -1,5 +1,5 @@
 # Mini-batch-SGD-large-networks
-large dynamic network training via mini-batch stochastic gradient descent. Variational approach for lower bound maximization. 
+large dynamic network latent space inference via mini-batch stochastic gradient descent. Variational approach for lower bound marginal maximization. 
 
 
 Open in colab: [VariationalModel.ipynb](https://githubtocolab.com/IgorBronzaCuerta/Mini-batch-SGD_large_networks/blob/main/VariationalModel.ipynb)
